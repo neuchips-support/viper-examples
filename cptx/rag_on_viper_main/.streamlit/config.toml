@@ -1,0 +1,3 @@
+[theme]
+base = "dark"               # Enable default dark mode
+primaryColor = "#AADC32"     # Custom color for primary interactive elements
